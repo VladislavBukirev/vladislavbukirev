@@ -11,6 +11,8 @@
 ### Socials:
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=27A0D9)](https://github.com/VladislavBukirev)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vladislavhempi)
-[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vladislavhempi)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vladislavhempi)
+
+![](https://komarev.com/ghpvc/?username=vladislavbukirev&label=PROFILE+VIEWS&color=ff69b4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavbukirev&show_icons=true&hide=stars,prs&theme=synthwave)
