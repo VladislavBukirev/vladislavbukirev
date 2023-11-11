@@ -17,4 +17,4 @@
 
 ![](https://komarev.com/ghpvc/?username=vladislavbukirev&label=PROFILE+VIEWS&color=ff69b4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislavbukirev&show_icons=true&hide=stars,prs&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavBukirev&show_icons=true&hide=stars,prs&theme=synthwave)
